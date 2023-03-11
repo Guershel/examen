@@ -1,0 +1,8 @@
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\examen01\examen-1\examen-1\bin\Debug\examen-1.exe.config
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\examen01\examen-1\examen-1\bin\Debug\examen-1.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\examen01\examen-1\examen-1\bin\Debug\examen-1.pdb
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\examen01\examen-1\examen-1\obj\Debug\examen-1.csproj.AssemblyReference.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\examen01\examen-1\examen-1\obj\Debug\examen-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\examen01\examen-1\examen-1\obj\Debug\examen-1.csproj.CoreCompileInputs.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\examen01\examen-1\examen-1\obj\Debug\examen-1.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\examen01\examen-1\examen-1\obj\Debug\examen-1.pdb
